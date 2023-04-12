@@ -1,3 +1,5 @@
-# Gitrefres
+# Gitrefresh
 My first edit 
-git h
+# REMOVING BUG 
+#FIX ALL ISSUES 
+
